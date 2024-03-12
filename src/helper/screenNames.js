@@ -1,0 +1,18 @@
+export const screenNames = {
+  appScreen: 'appScreen',
+  authScreen: 'authScreen',
+  home: 'home',
+  trips: 'trips',
+  descriptionTours: 'descriptionTours',
+  forgotPassword: 'forgotPassword',
+  login: 'login',
+  register: 'register',
+  orderTour: 'orderTour',
+  settings: 'settings',
+  tourSearchScreen: 'tourSearchScreen',
+  resultsTourFilter: 'resultsTourFilter',
+  routeTourMap: 'routeTourMap',
+  favorites: 'favorites',
+  userCards: 'userCards',
+  paymentScreen: 'paymentScreen',
+};

@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "927711726744",
+    "project_id": "booking-164e7",
+    "storage_bucket": "booking-164e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927711726744:android:b65f380bdcde0edc8854ed",
+        "android_client_info": {
+          "package_name": "com.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927711726744-vvls4r3h79pqstjnkcd3lbppaqthtg4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsz0hBcu_1p4gXmguP21UkQniWWqqmja8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927711726744-vvls4r3h79pqstjnkcd3lbppaqthtg4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927711726744:android:8c9ef032f55ac0b28854ed",
+        "android_client_info": {
+          "package_name": "com.booking.am"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927711726744-9fv3t39i9d5mv9g81a02m84c5116ct99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.booking.am",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "927711726744-vvls4r3h79pqstjnkcd3lbppaqthtg4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsz0hBcu_1p4gXmguP21UkQniWWqqmja8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927711726744-vvls4r3h79pqstjnkcd3lbppaqthtg4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
